@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class IndexPageShow {
     @RequestMapping("/")
     public String showIndex() {
-        System.out.println("a");
         return "index";
     }
 /*    @RequestMapping("/{page}")
