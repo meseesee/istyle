@@ -21,7 +21,7 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1770">
+            <state relative-caret-position="0">
               <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
               <folding />
             </state>
@@ -38,16 +38,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexPageShow.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IndexPageShow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/src/main/java/com/istyle/controller/IndexPageShow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#351#352#0" expanded="true" />
                 <element signature="e#381#382#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-dao/src/main/java/com/istyle/mapper/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../istyle/istyle-common/src/main/java/com/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-pojo/src/main/java/com/istyle/pojo/test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-service/src/main/java/com/istyle/service/test3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,26 +117,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="690">
               <caret line="23" column="55" lean-forward="false" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -154,6 +174,8 @@
         <option value="$PROJECT_DIR$/istyle-manager/istyle-manager-web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/istyle-manager/istyle-manager-web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/istyle-manager/istyle-manager-web/src/main/java/com/istyle/controller/IndexPageShow.java" />
+        <option value="$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-dao/src/main/java/com/istyle/mapper/test.java" />
+        <option value="$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-dao/src/main/java/com/istyle/mapper/test1.java" />
       </list>
     </option>
   </component>
@@ -196,7 +218,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
@@ -240,6 +262,20 @@
             </path>
             <path>
               <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="jetspeed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
               <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -250,25 +286,72 @@
             <path>
               <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
               <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
               <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
               <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -277,10 +360,12 @@
               <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
               <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
               <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
@@ -288,16 +373,6 @@
               <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
@@ -306,25 +381,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="istyle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="istyle-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="istyle-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -499,15 +555,16 @@
       <workItem from="1522762497761" duration="386000" />
       <workItem from="1523187458794" duration="137000" />
       <workItem from="1523194284680" duration="1068000" />
-      <workItem from="1523425855569" duration="787000" />
+      <workItem from="1523425855569" duration="1229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23939000" />
+    <option name="totallyTimeSpent" value="24381000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -523,7 +580,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19527897" sideWeight="0.49622437" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19527897" sideWeight="0.49622437" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24892704" sideWeight="0.5037756" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -585,46 +642,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="107" lean-forward="false" selection-start-line="21" selection-start-column="87" selection-end-line="21" selection-end-column="107" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="38" column="41" lean-forward="false" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/src/main/resources/spring/springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -679,6 +696,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -709,6 +727,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -739,6 +758,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -769,6 +789,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -805,6 +826,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -911,7 +933,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
+        <state relative-caret-position="0">
           <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
           <folding />
         </state>
@@ -933,15 +955,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../istyle/istyle-common/src/main/jetspeed/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-web/src/main/java/com/istyle/controller/IndexPageShow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#351#352#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-dao/src/main/java/com/istyle/mapper/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../istyle/istyle-common/src/main/java/com/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-pojo/src/main/java/com/istyle/pojo/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../istyle/istyle-manager/istyle-manager-service/src/main/java/com/istyle/service/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
